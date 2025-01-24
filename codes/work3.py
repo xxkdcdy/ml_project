@@ -108,5 +108,4 @@ for i in samples:
     else:
         f += 1
 
-print('20235227087陈东宇')
 print('P(D|U=True, W=True): <{}, {}>'.format(t / (t + f), f / (t + f)))
