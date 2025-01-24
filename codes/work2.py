@@ -121,4 +121,4 @@ if __name__ == "__main__":
         print('预测值: {}实际值: {}'.format(svm.predict(X_test[i]), y_test[i]))
         if svm.predict(X_test[i]) == y_test[i]:
             acc += 1
-    print('陈东宇20235227087, Accuracy: {}'.format(acc / len(y_test)))
+    print('Accuracy: {}'.format(acc / len(y_test)))
