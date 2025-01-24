@@ -131,5 +131,4 @@ for i in range(len(test_set)):
             acc += 1
         si += 1
 
-print('20235227087陈东宇')
 print('Accuracy: {}'.format(acc / si))
