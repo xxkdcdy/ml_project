@@ -1,0 +1,11 @@
+2024-06-07 16:36:07.392 | INFO     | __main__:<module>:23 - 1.8.1+cu111
+2024-06-07 17:10:37.740 | INFO     | __main__:train:196 - Client 8 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.199430
+2024-06-07 17:10:37.742 | INFO     | __main__:train:196 - Client 9 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.378458
+2024-06-07 17:10:37.743 | INFO     | __main__:train:196 - Client 4 Update Epoch: 1 [6000/6000 (100%)]	Loss: 1.534083
+2024-06-07 17:10:37.744 | INFO     | __main__:train:196 - Client 6 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.305034
+2024-06-07 17:10:37.747 | INFO     | __main__:train:196 - Client 2 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.306006
+2024-06-07 17:10:37.756 | INFO     | __main__:train:196 - Client 0 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.406231
+2024-06-07 17:10:37.761 | INFO     | __main__:train:196 - Client 3 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.236088
+2024-06-07 17:10:37.761 | INFO     | __main__:train:196 - Client 7 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.491760
+2024-06-07 17:10:37.776 | INFO     | __main__:train:196 - Client 5 Update Epoch: 1 [6000/6000 (100%)]	Loss: 1.220264
+2024-06-07 17:10:37.777 | INFO     | __main__:train:196 - Client 1 Update Epoch: 1 [6000/6000 (100%)]	Loss: 0.433226
